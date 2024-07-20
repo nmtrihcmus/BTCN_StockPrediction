@@ -52,3 +52,6 @@ This project involves fetching cryptocurrency price data, training Long Short-Te
 
     -   Actual and predicted closing prices for the selected cryptocurrency.
     -   Interactive visualizations using Plotly.
+
+#### 4\. Demo
+- Youtube: https://youtu.be/ErU8Q4rxa5A
